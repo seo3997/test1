@@ -1,1 +1,1 @@
-이것은 REDAEM 파일
+이것은 REDAEM 파일.
